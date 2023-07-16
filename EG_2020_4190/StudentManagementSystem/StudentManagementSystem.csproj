@@ -1,0 +1,99 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MainWindowVM.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Model\Images\1.png" />
+    <None Remove="Model\Images\10.png" />
+    <None Remove="Model\Images\2.png" />
+    <None Remove="Model\Images\3.png" />
+    <None Remove="Model\Images\3d-wallpaper-widescreen.jpg" />
+    <None Remove="Model\Images\4.png" />
+    <None Remove="Model\Images\4185-the-elder-scrolls-v-skyrim-1366x768-game-wallpaper-skyrim-team-fortress-2-and-mortal-kombat-5-video-games-that-need-movies-now.jpeg" />
+    <None Remove="Model\Images\5.png" />
+    <None Remove="Model\Images\6.png" />
+    <None Remove="Model\Images\6c6bb14fe54ac296a5cd43bd8b785e61.jpg" />
+    <None Remove="Model\Images\7.png" />
+    <None Remove="Model\Images\8.png" />
+    <None Remove="Model\Images\9.png" />
+    <None Remove="Model\Images\9vv9bxcm.png" />
+    <None Remove="Model\Images\A.jpg" />
+    <None Remove="Model\Images\R.jfif" />
+    <None Remove="Model\Images\snowing.png" />
+    <None Remove="Model\Images\tb6mwd8f.png" />
+    <None Remove="Model\Images\th.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0-preview1" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Model\Images\1.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\10.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\3.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\3d-wallpaper-widescreen.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\4.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\4185-the-elder-scrolls-v-skyrim-1366x768-game-wallpaper-skyrim-team-fortress-2-and-mortal-kombat-5-video-games-that-need-movies-now.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\5.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\6.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\6c6bb14fe54ac296a5cd43bd8b785e61.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\7.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\8.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\9.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\9vv9bxcm.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\A.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\R.jfif">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\snowing.png" />
+    <Resource Include="Model\Images\tb6mwd8f.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Model\Images\th.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

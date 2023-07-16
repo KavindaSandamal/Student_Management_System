@@ -1,0 +1,288 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Dushara Dilshani Ranaweera\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\aaa\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\3 rd semester\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\GUI\GUI\Project 1\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\Desktop1\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\KAVINDA SANDAMAL\Downloads\Desktop1 (2)\EG_2020_4190\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
